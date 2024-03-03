@@ -1,0 +1,14 @@
+{
+    "Location": {
+        "/google/": "https://www.google.com",
+        "/amazon/": "https://www.amazon.com/",
+        "/facebook/": "https://www.facebook.com/"
+    },
+    "Threads": 1,
+    "CustomHeaders": true,
+    "AllowAnyOrigin": true,
+    "AllowMethods": [
+        "GET",
+        "POST"
+    ]
+}
